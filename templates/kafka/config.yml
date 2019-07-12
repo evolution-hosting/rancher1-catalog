@@ -1,5 +1,5 @@
 name: Kafka
-description: Apache Kafka
+description: Apache Kafka https://kafka.apache.org/
 version: 1.0
 category: Clustering
 maintainer: Evolution Hosting <support@EvolutionHosting.com>
