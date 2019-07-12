@@ -1,7 +1,8 @@
 name: Zookeeper
-description: Apache Zookeeper
+description: Apache Zookeeper https://zookeeper.apache.org/
 version: 1.0
 category: Clustering
+support: Maintained by EvolutionHosting.com
 maintainer: Evolution Hosting <support@EvolutionHosting.com>
 license: Apache License, Version 2.0
 projectURL: https://github.com/evolution-hosting/rancher1-zookeeper
