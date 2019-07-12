@@ -1,0 +1,7 @@
+name: Kafka
+description: Apache Kafka
+version: 1.0
+category: Clustering
+maintainer: Evolution Hosting <support@EvolutionHosting.com>
+license: Apache License, Version 2.0
+projectURL: https://github.com/evolution-hosting/rancher1-kafka
